@@ -7,3 +7,5 @@ My main coding skils are html and css and i'm learning javascript and swift.</p>
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsheep561&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsheep561&theme=radical&show_icons=true&hide_border=true&layout=compact)
